@@ -1,0 +1,10 @@
+.crx-iframe {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  border: 0;
+  pointer-events: none; /* 允许鼠标事件穿透 */
+}
